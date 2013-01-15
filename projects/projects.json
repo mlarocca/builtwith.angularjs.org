@@ -813,6 +813,25 @@
         "Production", "No jQuery", "Twitter Bootstrap", "Dictionary",
         "AngularJS", "Ajax", "Education", "HTML5"
       ]
-    }
+    },
+    {
+      "name": "Tag Cloud Search + Translate",  // will be displayed under the screenshot
+      "thumb": "tagcloud/thumb.png", // path to the image (omit the projects/ prefix)
+      "desc": "Tag Cloud is an extension for Chrome that creates, for any web page displayed in your Chrome browser, a Tag Cloud with the 100 most often used words, providing a quick synthesis of every page you browse, in less than a second, and with only one click.", // One or two sentences
+      "url": "http://goo.gl/pQHts", // url to your app
+      "info": "http://mlarocca.github.com/01-14-2013/tagcloud.html", // url to app announcement or background
+      "src": "http://goo.gl/Lrqiq", // (optional) Url to your source repository
+      "submitter": "mlarocca", // your github username
+      "submissionDate": "2013-01-15", // current date in ISO format
+      "tags": [
+        "Production",
+        "Browser Extension", "Search",
+        "AngularJS", "D3js", "SVG", "Chrome Extension", 
+        "jQuery", 
+        "Open Source",
+        "Tests Included"
+      ]
+    }    
+    
   ]
 }
